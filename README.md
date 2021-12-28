@@ -9,4 +9,4 @@ We ended up adapting resnet_v2 for our usecase. The result was a 0.82 mAP for a 
 For a comprehensive overview of our building process, please refer to our [Notion working Notes.](https://cream-lead-5e3.notion.site/Drone-Based-WildFire-Detection-fe8b9a83c71943d1807ddc85ddf6e523)
 
 ### Credits
-This projects was hosted by the AI Socratic Circles and done under the guidance of @aerler & @ynusinovich.
+This projects was hosted by the [Aggregate Intellect](https://ai.science/) and done under the guidance of [Andre Erler](https://github.com/aerler) & [Yan Nusinovich](https://github.com/ynusinovich).
