@@ -1,3 +1,5 @@
+![Alt text](Wildfire.jpeg?raw=true "Title")
+
 # Drone based Wildfire Detector
 In this project, we use drone images to find fledgling wildfires. The intent - find wildfires before they get 'wild'.
 
